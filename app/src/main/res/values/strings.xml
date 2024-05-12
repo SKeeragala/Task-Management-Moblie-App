@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes SQLite</string>
+    <string name="todo">TODO</string>
+    <string name="add_note">Add Note</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="enter_the_descriptiom_n">Enter the descriptiom\n</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="enter_the_title1">Enter the title</string>
+    <string name="enter_the_descriptiom_n1">Enter the descriptiom\n</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+</resources>
